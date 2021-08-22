@@ -27,6 +27,9 @@ Various Enterprises, Irkutsk region<br/>
 Since 2009 to 2017 I was working as a 1C programmer at various enterprises, from 2002 to 2009 was working as a system administrator<br/>
 ## Education and Qualifications<br/>
 Bachelor of Information Systems in Economics, Baikal University of Economics and Law, 2004<br/>
+Russian - native</br>
+English - intermediate</br>
+
 ## Awards<br/>
 1C:Specialist in 1C Enterprise Platform<br/>
 1C:Specialist of Consulting in Production Management in 1C:ERP<br/>
