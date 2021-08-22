@@ -1,7 +1,7 @@
 # **Evgeniy Smirnov** <br/>
 ## 1С Business Architect<br/>
 St. Petersburg, Russia | smirnov.es@gmail.com<br/>
-I have been effective 1C Business Architect with over 4 years  of experience in 1C Products implementation as a Business Architect and over 10 years of experience in software development, consulting and delivering complex implementation for 1C Enterprise Systems as an analyst and a developer<br/>
+I have been effective 1C Business Architect with over 3 years  of experience in 1C Products implementation as a Business Architect and over 10 years of experience in software development, consulting and delivering complex implementation for 1C Enterprise Systems as an analyst and a developer<br/>
 I offer an array of skills in 1C:ERP, 1C:Trade Management and 1C:Document Management. I have demonstrated thorough understanding of 1C Products integration as well as deep learning.<br/>
 ## Professional Experience<br/>
 ### Big Integrator, St. Petersburg<br/>
