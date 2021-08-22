@@ -1,3 +1,50 @@
+**Evgeniy Smirnov**
+1С Business Architect
+St. Petersburg, Russia | +79959964826 | smirnov.es@gmail.com
+Effective 1C Business Architect with over 3 years  of experience in 1C Products implementation as a Business Architect and over 10 years of experience in software development, consulting and delivering complex implementation for 1C Enterprise Systems as an analyst and a developer
+Offering an array of skills in 1C:ERP, 1C:Trade Management and 1C:Document Management. Demonstrated thorough understanding of 1C Products integration as well as deep learning.
+1C programming |1C: Enterprise 8.2 and 8.3 | 1C:ERP | 1С:Trade Management| 1C: Document Management
+Professional Experience
+Big Integrator, St. Petersburg
+May 2020 – Present
+Business Architect
+The project for the implementation 1C:ERP at an enterprise for the repair of complex industrial equipment. Building a solution, managing a team of analysts (25 people), interacting with a customer. Project parameters: 2000 users from 40 regions of the Russian Federation, used CRM subsystems, budgeting, procurement, warehouse, sale, production, management reporting, accounting and tax accounting. 7 integrations implemented, 4 of them are various solutions from SAP
+1С:Franchisee, St. Petersburg
+October 2018 – May 2020
+Business Architect
+Project for the implementation of the concept of a solution based on 1C at a mining enterprise. Building a solution architecture, managing a team of analysts (3 people), interaction with a customer. The project was implemented as a concept 1C: ERP implementation project at a vegetable oil plant. Building a solution architecture, managing a team of analysts (5 people), interacting with a customer. 
+1C:ERP implementation project at a plastic plant. Project parameters: 150 users, 4 business units, budgeting, procurement, warehouse, sales, production, management reporting, accounting and tax accounting subsystems were used. 1C: ERP implementation project at a refinery. Building a solution architecture, managing a team of analysts (6 people), interacting with a customer. 
+1C implementation project at a refinery. Project parameters: 200 users, 2 business units, budgeting, procurement, warehouse, sales, production, management reporting, accounting and tax accounting subsystems were used. Project for the implementation of 1C: ERP at a plastics production plant. Building the architecture of the solution, interaction with the customer. Project parameters: 150 users, 4 business units, purchasing, warehouse, sales, production subsystems were used.
+1С:Franchisee, Moscow
+March 2018 – May 2020
+Business Architect
+Project for the implementation of payroll and production modules in 1C: ERP at a furniture manufacturing plant. Building the architecture of the solution, interaction with the customer. Project parameters: 50 users, 2 business units, several business processes for calculating piecework wages, calculating production support have been implemented.
+Enterprise, Irkutsk
+May 2017 – March 2018
+1C Analyst, 1C Developer
+1C ERP implementation project at a mining enterprise. Interaction with the customer, interaction with the architect, implementation of modifications, preparation of project documentation.
+Various Enterprises, Irkutsk region
+1C Developer, System administrator
+Since 2009 to 2017 I was working as a 1C programmer at various enterprises, from 2002 to 2009 was working as a system administrator
+Education and Qualifications
+Bachelor of Information Systems in Economics, Baikal University of Economics and Law, 2004
+Awards
+1C:Specialist in 1C Enterprise Platform
+1C:Specialist of Consulting in Production Management in 1C:ERP
+1C:Specialist of Consulting in Management Accounting in 1C:ERP
+1C:Professional on 1C:UPP, performance, IFRS
+Diploma of Project management in Stratoplan School
+
+
+
+
+
+
+
+
+
+
+
 Добрый день!
 Меня зовут Смирнов Евгений, я живу в Санкт-Петербурге. 
 Готов поучаствовать в ваших проектах внедрения 1С:ERP в качестве бизнес-аналитика или функционального архитектора, технического архитектора. Готов к командировкам по РФ и за ее пределами.
