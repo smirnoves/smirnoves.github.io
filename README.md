@@ -4,7 +4,7 @@ St. Petersburg, Russia | smirnov.es@gmail.com<br/>
 I am a successful 1C Business Architect with over 3 years  of experience in 1C Products implementation and over 10 years of experience in software development, consulting, and ensuring comprehensive implementation of Accounting and ERP systems on 1C Platform as an analyst and a developer<br/>
 I offer an array of skills in 1C:ERP, 1C:Trade Management, and 1C:Document Management. I have demonstrated a thorough understanding of 1C Products integration as well as deep learning.<br/>
 ## Professional Experience<br/>
-### IBS, St. Petersburg<br/>
+### Integrator, St. Petersburg<br/>
 May 2020 – Present<br/>
 Business Architect<br/>
 A project of the implementation of 1C:ERP at an enterprise for the repair of complex industrial equipment. Building a solution, managing a team of analysts (25 people), interacting with a customer. Project parameters: 1000 users from 30 regions of the Russian Federation, using CRM subsystems, budgeting, procurement, warehouse accounting, sales, production, management reporting, accounting, and tax accounting. 7 integrations have been implemented, 4 of them are various solutions of SAP solutions<br/>
